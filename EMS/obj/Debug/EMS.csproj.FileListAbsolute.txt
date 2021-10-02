@@ -1,0 +1,5 @@
+D:\IT\AWP Practical\AWP CE2\EMS\EMS\bin\EMS.dll
+D:\IT\AWP Practical\AWP CE2\EMS\EMS\bin\EMS.pdb
+D:\IT\AWP Practical\AWP CE2\EMS\EMS\obj\Debug\EMS.dll
+D:\IT\AWP Practical\AWP CE2\EMS\EMS\obj\Debug\EMS.pdb
+D:\IT\AWP Practical\AWP CE2\EMS\EMS\obj\Debug\EMS.csprojResolveAssemblyReference.cache
